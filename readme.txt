@@ -8,7 +8,7 @@
 	a. Buka cmmoand prompt (cmd) dan ketik "pip install projectq" untuk menginstall projectq
 	b. Jika opsi sebelumnya tidak berhasil, buka Jupyter notebook melalui anaconda. Setelah itu buat file python baru dan 	ketik "!pip install projectq"
 5. Jalankan anaconda (Jika belum)
-4. Ketik python
+4. Ketik "python webservice.py" 
 
 [Cara Mengoperasikan Program]
 1. Masukan angka yang faktornya ingin dicari di kolom input
