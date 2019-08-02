@@ -55,7 +55,7 @@
         console.log(inputN)
         $.ajax({
             type: 'POST',
-            url: "http://localhost:5000/calculate",
+            url: "http://localhost:5001/calculate",
             data: JSON.stringify({"inputN": inputN}),
             dataType: 'json',
             contentType: 'application/json',
